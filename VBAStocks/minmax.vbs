@@ -51,3 +51,5 @@ ws.Range("Q4").Value = dbGTSV
     
  
 Next ws
+
+End Sub
